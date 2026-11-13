@@ -1,0 +1,17 @@
+{
+ "product": "ALIEF_CADPRO",
+ "version": "1.1.0",
+ "date": "2026-11-14",
+ "notes": "Options seperti AutoCAD, gambar langsung terlihat saat menggambar, insert simbol di garis, klik kanan OSNAP, palet auto-hide, command window baru, perintah surface Rhinoceros 8",
+ "min_launcher": 1,
+ "packages": [
+  {
+   "name": "app",
+   "file": "app-1.1.0.zip",
+   "size": 2412372,
+   "sha256": "618ba380ce9f8cbdc4258a52e429ddf0670bc8b982e0e1f7138d2f9a9aa0b34e",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.1.0.zip"
+  }
+ ],
+ "sig": "wUFidy7B2AB+HI/4GCeFnLe3qAJ8KOPy0swB0Sb5esodgpf2BeHR1vsKkEUxxMuSBDsoAvWeOVpTpchUaznrCw=="
+}
