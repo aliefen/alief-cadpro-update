@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "1.3.1",
- "date": "2026-11-14",
- "notes": "Versi 1.3.1: banyak file terbuka sekaligus dengan tab; Frame Spacing (Ship Structure) dengan penomoran bebas dan jarak per segmen; buka/simpan Rhino .3dm; notifikasi update otomatis; tab Annotate, Insert, Views; Detail View otomatis; array asosiatif; Block Editor dengan blok dinamis dan atribut; seleksi klik pojok ke pojok.",
+ "version": "1.5.0",
+ "date": "2026-11-19",
+ "notes": "Versi 1.5.0: snap lebih tepat (objek di bawah kursor diprioritaskan, SNAP tidak berubah saat zoom); import PDF di latar belakang dengan progress dan Cancel; grip polyline Add Vertex / Convert to Arc / Remove Vertex; Ctrl+Shift+C dan Ctrl+Shift+V (copy base point, paste as block); double click blok membuka Block Editor; PEDIT; FILLET dan CHAMFER baru; selection cycling; HATCH klik titik di dalam area dan BOUNDARY; Drafting Settings (snap, grid, polar tracking F10); parameter, action dan parameter set blok dinamis; SCALE bebas, Reference dan Fit ke frame; TCOUNT dan TNUMBER; Dimension Style Manager; SELECTSIMILAR; VPORTS. Termasuk 1.4.0: perintah tidak nyangkut, Spasi = Enter, Image Adjust brightness/contrast, Draw Order, XLINE/RAY. Update kini diperiksa setiap 3 jam dengan progress unduhan dan jendela What's new.",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-1.3.1.zip",
-   "size": 5718194,
-   "sha256": "ea99adae9254c5eb85c652a90a92a3ec21131511a63a84f2a48923b70c7e991d",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.3.1.zip"
+   "file": "app-1.5.0.zip",
+   "size": 6134913,
+   "sha256": "e7d15d2203eed4b6971f29ebf15c243fd4fb9a12f9c0dffec6da90a99ca08985",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.5.0.zip"
   }
  ],
- "sig": "oJWPys6FfQMJI9hde6homKF5AgrPpVvj6CK0ueOwjNJz7ZVVsBzDGiGKnf12HDaexSZkn6j7Y/OZyYF/RiEsAA=="
+ "sig": "KZ6o5d1TnWJ2t7r6rYWfK/qrIkA0dLQsFYrRRoxwRZoG0tNRy78kiMnf6Wu6A0+FtJDEXy8YZ+xY1wfylZRHAw=="
 }
