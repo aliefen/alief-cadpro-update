@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "1.5.0",
- "date": "2026-11-19",
- "notes": "Versi 1.5.0: snap lebih tepat (objek di bawah kursor diprioritaskan, SNAP tidak berubah saat zoom); import PDF di latar belakang dengan progress dan Cancel; grip polyline Add Vertex / Convert to Arc / Remove Vertex; Ctrl+Shift+C dan Ctrl+Shift+V (copy base point, paste as block); double click blok membuka Block Editor; PEDIT; FILLET dan CHAMFER baru; selection cycling; HATCH klik titik di dalam area dan BOUNDARY; Drafting Settings (snap, grid, polar tracking F10); parameter, action dan parameter set blok dinamis; SCALE bebas, Reference dan Fit ke frame; TCOUNT dan TNUMBER; Dimension Style Manager; SELECTSIMILAR; VPORTS. Termasuk 1.4.0: perintah tidak nyangkut, Spasi = Enter, Image Adjust brightness/contrast, Draw Order, XLINE/RAY. Update kini diperiksa setiap 3 jam dengan progress unduhan dan jendela What's new.",
+ "version": "1.6.0",
+ "date": "2026-11-20",
+ "notes": "Versi 1.6.0 (23 masukan): klik kanan polyline > Close/Open/Join/Reverse/Width/Fit/Decurve; hatch asosiatif mengikuti STRETCH; Dimension Style: unit format, scale factor, round off, zero suppression, alternate units, tolerances; Image Adjust dengan Brightness/Contrast/Fade (fade kini benar-benar meredupkan gambar); parameter blok dinamis langsung tampil; gambar besar / import PDF jauh lebih ringan (kursor, snap, Esc); Import PDF dengan Import as block, layer, join, lineweight; image hanya terpilih lewat bingkainya; teks tooltip lebih jelas; VPORTS dengan view yang sama; STRETCH bebas; RECTANG dengan ORTHO; editor MTEXT Text Formatting; CAL (=rumus di prompt mana pun); Object Snap Tracking F11; LTSCALE dan linetype scale per objek; ketik jari-jari / panjang saat menarik grip; QDIM dan Baseline; REVCLOUD; TRIM / EXTEND dengan window atau Fence; dialog Plot baru dengan plot area Window; perbaikan FILLET (garis utama tidak hilang lagi).",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-1.5.0.zip",
-   "size": 6134913,
-   "sha256": "e7d15d2203eed4b6971f29ebf15c243fd4fb9a12f9c0dffec6da90a99ca08985",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.5.0.zip"
+   "file": "app-1.6.0.zip",
+   "size": 7612958,
+   "sha256": "0f72560002cb73cea7e2b3d2750432ed91360a8d5c047b896fe7cd5d5a6c4642",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.6.0.zip"
   }
  ],
- "sig": "KZ6o5d1TnWJ2t7r6rYWfK/qrIkA0dLQsFYrRRoxwRZoG0tNRy78kiMnf6Wu6A0+FtJDEXy8YZ+xY1wfylZRHAw=="
+ "sig": "vEZtLaqbKbn/rrqPZg2B0D/3qaoczzXx9A32ZFKQV306mC1cI0EA5IkOMPL4m5oyV19RWezW4xVAGm7tztVXAQ=="
 }
