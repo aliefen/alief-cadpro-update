@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "1.7.0",
+ "version": "1.8.0",
  "date": "2026-11-26",
- "notes": "Versi 1.7.0 (13 masukan): garis bantu Object Snap Tracking diperbaiki (ORTHO + garis bantu dari titik snap); properties leader: Arrowhead, Arrowhead size, Landing distance; perintah baru MLEADER (MLD) dengan Add Leader / Lengthen Landing dari grip dan MLEADEREDIT; Shift+klik beberapa grip lalu tarik bersama; TRIM mode cepat menghapus objek yang tidak terpotong, opsi eRase dan Undo; klik cepat tidak lagi tertelan double-click; HATCH pick point pada area dari XLINE; snap Image line dimatikan secara bawaan; garis karet ORTHO saat memilih 2 titik referensi (SCALE Reference, CALIBRATE); daftar linetype dengan contoh garis dan keterangan; window seleksi tidak berubah saat zoom; M2P (Mid Between 2 Points) di semua prompt titik; Selection Cycling dengan kotak warna.",
+ "notes": "Versi 1.8.0 (17 masukan): TRIM/EXTEND langsung mode Quick (klik langsung memotong, objek tanpa batas dihapus, opsi cuTting edges/mOde/eRase/Undo, Shift+klik = extend); grip spline Add/Remove Fit Point; Hatch Pattern Palette ANSI/ISO/Other Predefined/Custom (.pat) dengan 68 pola; MATCHPROP menyalin linetype scale dan properti text (opsi Settings); sorotan seleksi transparan sehingga linetype tetap terlihat; Ctrl+Z di dalam LINE/PLINE mundur satu titik; undo parameter di Block Editor; Esc tidak lagi nyangkut; grip ujung LINE Stretch (pindah titik) / Lengthen; grip lebar MTEXT dan kolom Width, teks MTEXT terbungkus; tinggi di Text Formatting sama dengan Properties + pratinjau langsung di gambar, klik di dalam kotak teks memilih teks; ellipse dengan 4 grip kuadran; ikon DLI/DAL dibedakan; Edit Block In-place (REFEDIT/REFCLOSE/REFSET); block import PDF menyala saat disentuh + tooltip rollover; object snap Geometric Center (GCEN); OFFSET/TRIM/EXPLODE mempertahankan linetype scale.",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-1.7.0.zip",
-   "size": 7792346,
-   "sha256": "23c21eba396ecd2c330b2e26fa71712d3807f6dad189465d05ff870b7e4132ba",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.7.0.zip"
+   "file": "app-1.8.0.zip",
+   "size": 8143590,
+   "sha256": "f51a3c3dc6ef4d79bb10b23693c79a9d617541a9220772b6d2a83e9182957e48",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.8.0.zip"
   }
  ],
- "sig": "CWp77GBvqE9MHqAiEZKUVO0XxwL3pf1DaCOnbcIbPkv6HwfY3UM1YXAcbcFuX7fE/sQ/uUBPCaqct7Z+9hB2Cw=="
+ "sig": "iUFlqnidpYnXPydVWDs17mg0ZRP4p+iCprZY4FTlYyL7y3NImJPsZ9l4gdRJW0q4rKto3+7tyijAy1ZFWs8ZAg=="
 }
