@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "1.6.0",
- "date": "2026-11-20",
- "notes": "Versi 1.6.0 (23 masukan): klik kanan polyline > Close/Open/Join/Reverse/Width/Fit/Decurve; hatch asosiatif mengikuti STRETCH; Dimension Style: unit format, scale factor, round off, zero suppression, alternate units, tolerances; Image Adjust dengan Brightness/Contrast/Fade (fade kini benar-benar meredupkan gambar); parameter blok dinamis langsung tampil; gambar besar / import PDF jauh lebih ringan (kursor, snap, Esc); Import PDF dengan Import as block, layer, join, lineweight; image hanya terpilih lewat bingkainya; teks tooltip lebih jelas; VPORTS dengan view yang sama; STRETCH bebas; RECTANG dengan ORTHO; editor MTEXT Text Formatting; CAL (=rumus di prompt mana pun); Object Snap Tracking F11; LTSCALE dan linetype scale per objek; ketik jari-jari / panjang saat menarik grip; QDIM dan Baseline; REVCLOUD; TRIM / EXTEND dengan window atau Fence; dialog Plot baru dengan plot area Window; perbaikan FILLET (garis utama tidak hilang lagi).",
+ "version": "1.7.0",
+ "date": "2026-11-26",
+ "notes": "Versi 1.7.0 (13 masukan): garis bantu Object Snap Tracking diperbaiki (ORTHO + garis bantu dari titik snap); properties leader: Arrowhead, Arrowhead size, Landing distance; perintah baru MLEADER (MLD) dengan Add Leader / Lengthen Landing dari grip dan MLEADEREDIT; Shift+klik beberapa grip lalu tarik bersama; TRIM mode cepat menghapus objek yang tidak terpotong, opsi eRase dan Undo; klik cepat tidak lagi tertelan double-click; HATCH pick point pada area dari XLINE; snap Image line dimatikan secara bawaan; garis karet ORTHO saat memilih 2 titik referensi (SCALE Reference, CALIBRATE); daftar linetype dengan contoh garis dan keterangan; window seleksi tidak berubah saat zoom; M2P (Mid Between 2 Points) di semua prompt titik; Selection Cycling dengan kotak warna.",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-1.6.0.zip",
-   "size": 7612958,
-   "sha256": "0f72560002cb73cea7e2b3d2750432ed91360a8d5c047b896fe7cd5d5a6c4642",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.6.0.zip"
+   "file": "app-1.7.0.zip",
+   "size": 7792346,
+   "sha256": "23c21eba396ecd2c330b2e26fa71712d3807f6dad189465d05ff870b7e4132ba",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.7.0.zip"
   }
  ],
- "sig": "vEZtLaqbKbn/rrqPZg2B0D/3qaoczzXx9A32ZFKQV306mC1cI0EA5IkOMPL4m5oyV19RWezW4xVAGm7tztVXAQ=="
+ "sig": "CWp77GBvqE9MHqAiEZKUVO0XxwL3pf1DaCOnbcIbPkv6HwfY3UM1YXAcbcFuX7fE/sQ/uUBPCaqct7Z+9hB2Cw=="
 }
