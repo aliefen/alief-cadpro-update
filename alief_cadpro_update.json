@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "1.9.1",
+ "version": "1.9.2",
  "date": "2026-11-27",
- "notes": "1.9.1: block besar tidak lagi membuat lag (snap dan klik), grip bisa ditarik langsung dan menempel ke objek lain, ribbon menyesuaikan lebar layar (nama tombol tidak terpotong), fillet/busur kecil tetap terlihat, dynamic block dari DWG (Linear + Stretch) bisa ditarik grip-nya, panel Layers / Block / Properties seperti AutoCAD, selection window lebih mudah diklik.",
+ "notes": "1.9.2: TRIM / EXTEND tanpa batas kini seketika (sebelumnya belasan detik pada gambar besar), preview MOVE / COPY / ROTATE block besar ringan, tombol Pan dan Orbit bekerja (tarik dengan tombol kiri), Spasi = Enter di mana pun kursor di atas gambar, pipa 3D mengikuti busur garis, perintah baru PIPE2D (pipa 2D dinding tebal + center line berskala otomatis).",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-1.9.1.zip",
-   "size": 8470351,
-   "sha256": "6e19b33ea41b8dec22830cc677e237b7b544e1e04e993c0e8c2b07e17884bb19",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.9.1.zip"
+   "file": "app-1.9.2.zip",
+   "size": 8494071,
+   "sha256": "af8aa67c7817c3c51449bac1dbb7481bb8c0ac0fbe81c4681e2803ee6db4daf2",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.9.2.zip"
   }
  ],
- "sig": "A/2ysDCpvkEv8TChM3n0nHN/2VdyguZZFGSbHYfqZDQh9Vk827w3eE6xqtP6fQKKpxmomxfEf/sdVCUW/Q1XCg=="
+ "sig": "xj6YJTs7ciKtGpX/LGv64UNlfBGxDfmPjf7Y3iUZX9PejP6AhsVaY/kMrA8HIYLw7PUSVh1ntkRHw9J1v2JrAA=="
 }
