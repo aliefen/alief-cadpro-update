@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "1.9.2",
- "date": "2026-11-27",
- "notes": "1.9.2: TRIM / EXTEND tanpa batas kini seketika (sebelumnya belasan detik pada gambar besar), preview MOVE / COPY / ROTATE block besar ringan, tombol Pan dan Orbit bekerja (tarik dengan tombol kiri), Spasi = Enter di mana pun kursor di atas gambar, pipa 3D mengikuti busur garis, perintah baru PIPE2D (pipa 2D dinding tebal + center line berskala otomatis).",
+ "version": "2.0.0",
+ "date": "2026-11-28",
+ "notes": "2.0.0: perintah baru SPLIT, JOIN untuk semua kurva, PROJECT, SCALE2D / SCALE1D / SCALENU, DEVLOFT, PROFILE2D, BOLT (baut dan mur ISO), TEXTALIGN, TABLEXLS (tabel dari Excel); panah atas/bawah memanggil perintah sebelumnya; kursor magnet ke titik snap; font tambahan; layer otomatis untuk dimensi, teks dan hatch; panel Viewports dan Window; grip sisi polyline seperti ZWCAD.",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-1.9.2.zip",
-   "size": 8494071,
-   "sha256": "af8aa67c7817c3c51449bac1dbb7481bb8c0ac0fbe81c4681e2803ee6db4daf2",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.9.2.zip"
+   "file": "app-2.0.0.zip",
+   "size": 10302249,
+   "sha256": "ffe1fcc3f2feaadca1c13e152ac1288da6a518434debdf44203ffc8601de56d7",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-2.0.0.zip"
   }
  ],
- "sig": "xj6YJTs7ciKtGpX/LGv64UNlfBGxDfmPjf7Y3iUZX9PejP6AhsVaY/kMrA8HIYLw7PUSVh1ntkRHw9J1v2JrAA=="
+ "sig": "PfzjfxfLp9i5KCySBxlgEAzxVFFtN6w7ReG55cmzPOtd0AWtwnhcwRJqEy6TWWDJZ8jC1f4Rt9yVW8ttLSnQDA=="
 }
