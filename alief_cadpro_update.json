@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "1.9.0",
+ "version": "1.9.1",
  "date": "2026-11-27",
- "notes": "Versi 1.9.0 (14 masukan): mesin tampilan baru - gambar besar jauh lebih ringan (objek baru/berubah diperbarui tanpa membangun ulang seluruh gambar, snap hanya memeriksa garis dekat kursor, preview MOVE/COPY/paste besar digambar sekaligus); TRIM pada garis berimpit langsung mengambil objek terpendek tanpa daftar pilihan; linetype di dalam block besar tampil (layar dan plot); MATCHPROP teks menyalin ukuran yang terlihat; parameter dynamic block bisa diklik di Block Editor (Del = hapus, klik ganda = edit); snap dan garis bantu ke titik PLINE/SPLINE yang sedang digambar; export DXF/DWG dengan linetype metrik dan text style per font, import membaca font style; klik di luar Text Formatting = selesai; teks DWG dengan tinggi absolut tampil normal di editor; paste (as block) ke gambar lain mempertahankan ukuran teks; dialog Select Color dengan Index Color dan True Color; plot monochrome/grayscale mempertahankan true color, pilihan all black; Undo di dalam COPY.",
+ "notes": "1.9.1: block besar tidak lagi membuat lag (snap dan klik), grip bisa ditarik langsung dan menempel ke objek lain, ribbon menyesuaikan lebar layar (nama tombol tidak terpotong), fillet/busur kecil tetap terlihat, dynamic block dari DWG (Linear + Stretch) bisa ditarik grip-nya, panel Layers / Block / Properties seperti AutoCAD, selection window lebih mudah diklik.",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-1.9.0.zip",
-   "size": 8332533,
-   "sha256": "2390083172d7dd5a8554ab1cdbbe353b093fb72c2ab2d96f30e70ad6c72113d4",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.9.0.zip"
+   "file": "app-1.9.1.zip",
+   "size": 8470351,
+   "sha256": "6e19b33ea41b8dec22830cc677e237b7b544e1e04e993c0e8c2b07e17884bb19",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.9.1.zip"
   }
  ],
- "sig": "4GTd3HkaD5T3nk3Hb+ERB8iOSZdonGyBDlRg9p2UlDojM8aMP+Sx1vcc3WNiKFTtI0+vYr2ZJjwnAgM12sUTBA=="
+ "sig": "A/2ysDCpvkEv8TChM3n0nHN/2VdyguZZFGSbHYfqZDQh9Vk827w3eE6xqtP6fQKKpxmomxfEf/sdVCUW/Q1XCg=="
 }
