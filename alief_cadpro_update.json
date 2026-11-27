@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "1.8.0",
- "date": "2026-11-26",
- "notes": "Versi 1.8.0 (17 masukan): TRIM/EXTEND langsung mode Quick (klik langsung memotong, objek tanpa batas dihapus, opsi cuTting edges/mOde/eRase/Undo, Shift+klik = extend); grip spline Add/Remove Fit Point; Hatch Pattern Palette ANSI/ISO/Other Predefined/Custom (.pat) dengan 68 pola; MATCHPROP menyalin linetype scale dan properti text (opsi Settings); sorotan seleksi transparan sehingga linetype tetap terlihat; Ctrl+Z di dalam LINE/PLINE mundur satu titik; undo parameter di Block Editor; Esc tidak lagi nyangkut; grip ujung LINE Stretch (pindah titik) / Lengthen; grip lebar MTEXT dan kolom Width, teks MTEXT terbungkus; tinggi di Text Formatting sama dengan Properties + pratinjau langsung di gambar, klik di dalam kotak teks memilih teks; ellipse dengan 4 grip kuadran; ikon DLI/DAL dibedakan; Edit Block In-place (REFEDIT/REFCLOSE/REFSET); block import PDF menyala saat disentuh + tooltip rollover; object snap Geometric Center (GCEN); OFFSET/TRIM/EXPLODE mempertahankan linetype scale.",
+ "version": "1.9.0",
+ "date": "2026-11-27",
+ "notes": "Versi 1.9.0 (14 masukan): mesin tampilan baru - gambar besar jauh lebih ringan (objek baru/berubah diperbarui tanpa membangun ulang seluruh gambar, snap hanya memeriksa garis dekat kursor, preview MOVE/COPY/paste besar digambar sekaligus); TRIM pada garis berimpit langsung mengambil objek terpendek tanpa daftar pilihan; linetype di dalam block besar tampil (layar dan plot); MATCHPROP teks menyalin ukuran yang terlihat; parameter dynamic block bisa diklik di Block Editor (Del = hapus, klik ganda = edit); snap dan garis bantu ke titik PLINE/SPLINE yang sedang digambar; export DXF/DWG dengan linetype metrik dan text style per font, import membaca font style; klik di luar Text Formatting = selesai; teks DWG dengan tinggi absolut tampil normal di editor; paste (as block) ke gambar lain mempertahankan ukuran teks; dialog Select Color dengan Index Color dan True Color; plot monochrome/grayscale mempertahankan true color, pilihan all black; Undo di dalam COPY.",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-1.8.0.zip",
-   "size": 8143590,
-   "sha256": "f51a3c3dc6ef4d79bb10b23693c79a9d617541a9220772b6d2a83e9182957e48",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.8.0.zip"
+   "file": "app-1.9.0.zip",
+   "size": 8332533,
+   "sha256": "2390083172d7dd5a8554ab1cdbbe353b093fb72c2ab2d96f30e70ad6c72113d4",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-1.9.0.zip"
   }
  ],
- "sig": "iUFlqnidpYnXPydVWDs17mg0ZRP4p+iCprZY4FTlYyL7y3NImJPsZ9l4gdRJW0q4rKto3+7tyijAy1ZFWs8ZAg=="
+ "sig": "4GTd3HkaD5T3nk3Hb+ERB8iOSZdonGyBDlRg9p2UlDojM8aMP+Sx1vcc3WNiKFTtI0+vYr2ZJjwnAgM12sUTBA=="
 }
