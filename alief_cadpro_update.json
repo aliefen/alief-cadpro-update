@@ -1,17 +1,17 @@
 {
  "product": "ALIEF_CADPRO",
- "version": "2.1.0",
+ "version": "2.2.0",
  "date": "2026-11-28",
- "notes": "Versi 2.1: BOLT standar ISO/DIN/JIS/ASME dengan pilihan bolt/nut/keduanya dan pandangan; PROFILE2D sebagai block dengan scallop; BOUNDARY mengabaikan dimension/text; menu osnap ON/OFF jelas; magnet ke grip; SECTION/PROJECT/FLATSHOT hasil di satu layer; preview seleksi langsung menyala",
+ "notes": "Versi 2.2: garis baru tampil di atas isian/hasil import; dialog Hatch and Gradient (warna, gradient, pick points cepat, select objects); acad.ctb: index hitam, true color tetap; file .acp tidak lagi berubah menjadi ZIP di WhatsApp; MATCHPROP teks (bold/italic/underline/arah); dynamic block: edit/hapus parameter dan dua distance; linetype DWG/DXF ikut diimpor; import PDF: area tertutup, clip, isian digabung",
  "min_launcher": 1,
  "packages": [
   {
    "name": "app",
-   "file": "app-2.1.0.zip",
-   "size": 10343498,
-   "sha256": "66118f486aea4dbf9400b354eb2e2988eba91af86c0dcf8597933de4e901824c",
-   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-2.1.0.zip"
+   "file": "app-2.2.0.zip",
+   "size": 10420063,
+   "sha256": "c904dc1ee704dedc68d98c1fe49c67f578da495e3d9b37155b7aea0ebac8496e",
+   "url": "https://raw.githubusercontent.com/aliefen/alief-cadpro-update/main/app-2.2.0.zip"
   }
  ],
- "sig": "FLo9h/H8anibt6vIL85FXSju2o1Zx2LZZowbfQcki+eBwK3xTacFPx3K/rXFOMP8Od/mlKPgMF/3m+NsVOwWCA=="
+ "sig": "Zf1v+3bilz7vkJ23AEY6D1Fq3dq2q7z2atZy2GPqQCduNuv1FfRCH7IIBt4a60M5xyKnmFhF1XnkPjpNhKDDCQ=="
 }
